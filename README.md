@@ -1,4 +1,4 @@
-# hierarchical clustering
+# Hierarchical clustering
 **Content**<br />
 1)hierarchical clustering explanation and notes
   In this pdf i have explain the concept of clustering and  hierarchical clustering with types of what is aglomerative and division clustering with example and cutting
