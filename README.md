@@ -6,6 +6,6 @@
   and types of linkage and given some points to remember when to use normalization and standardization while forming a clusters and how to calculate simple matching coefficient
   and jaquard coefficient eculidean distance for categorical and numerical+categorical.
 
-**and for hands-on**
-2)hirarchical clustering on universities dataset
+**and for hands-on**<br />
+2)hirarchical clustering on universities dataset<br />
 3)hirarchical clustering on iris dataset
