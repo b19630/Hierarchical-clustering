@@ -1,5 +1,5 @@
 # hierarchical clustering
-**Content**
+**Content**<br />
 1)hierarchical clustering explanation and notes
   In this pdf i have explain the concept of clustering and  hierarchical clustering with types of what is aglomerative and division clustering with example and cutting
   the dendogram with parameters of clade and intracluster distance its significance and importance in clustering. and explain the concept of eculidean diastance and linkage 
